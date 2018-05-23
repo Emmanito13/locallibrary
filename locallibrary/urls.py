@@ -24,3 +24,5 @@ urlpatterns = [
 urlpatterns += [
     path('catalog/', include('catalog.urls')),
 ]
+
+#Un comentario
